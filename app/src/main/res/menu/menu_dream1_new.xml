@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--ADD NEW DREAM-->
+    <item
+        android:enabled="true"
+        android:title="save"
+        android:id="@+id/action_dream_save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+
+    <item
+        android:enabled="true"
+        android:title="save"
+        android:id="@+id/action_dream_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+
+    <!--item
+        android:enabled="true"
+        android:title="create"
+        android:id="@+id/action_dream_new_note"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="0"
+        app:showAsAction="always"/-->
+
+</menu>

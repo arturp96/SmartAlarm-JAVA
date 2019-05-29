@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Alarm+ </string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions"> Its time to wake up! To stop the alarm clock from ringing, you have to successfully complete the following Memory game puzzle. Once that is done the alarm will stop ringing!   </string>
+    <string name="about">Welcome to Smart Alarm+. This mobile application contains features designed to improve all aspects of sleep related issues, through the implementations of key features. </string>
+
+</resources>
